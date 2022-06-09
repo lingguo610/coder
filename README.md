@@ -14,3 +14,7 @@
 
 [记一次服务oom故障复盘](https://zhuanlan.zhihu.com/p/523828907)
 
+
+三、其他
+[一段代码了解linux进程调度](https://zhuanlan.zhihu.com/p/526307049)
+
