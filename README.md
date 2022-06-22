@@ -21,5 +21,6 @@
 
 
 四、工具
-[Git+TortoseGit安装]https://zhuanlan.zhihu.com/p/532389884
+
+[Git+TortoseGit安装](https://zhuanlan.zhihu.com/p/532389884)
 
