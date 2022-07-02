@@ -30,7 +30,7 @@
 
 [golang的panic和recover](https://zhuanlan.zhihu.com/p/536641134)
 
-[golang的哈希表]（https://zhuanlan.zhihu.com/p/536637557）
+[golang的哈希表](https://zhuanlan.zhihu.com/p/536637557)
 
-[golang的channel原理]（https://zhuanlan.zhihu.com/p/536634003）
+[golang的channel原理](https://zhuanlan.zhihu.com/p/536634003)
 
