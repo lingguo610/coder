@@ -5,6 +5,8 @@
 
 [为什么tcpdump抓的包 大于 MTU?](https://zhuanlan.zhihu.com/p/520913734)
 
+[tcp的reuse和recycle到底怎么用？](https://mp.weixin.qq.com/s?__biz=Mzg2MDc2OTYxMQ==&mid=2247483709&idx=1&sn=9d7bb0b7fe8dadf92dd273c1c6b8d57f&chksm=ce201d19f957940f9ed7f69be417e9b9fa5a28430aea890e7895bea254d603ee7700581fc413&token=575871069&lang=zh_CN#rd)
+
 
 二、实际解决的问题
 
