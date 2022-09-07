@@ -9,6 +9,9 @@
 
 [tcp端口复用和nginx模型](https://mp.weixin.qq.com/s?__biz=Mzg2MDc2OTYxMQ==&mid=2247483704&idx=1&sn=83b63af4944be05c837be0242f4cd9f9&chksm=ce201d1cf957940a32d786bf9bf3335349108cfd28bace60e75c56a243e5bfb840d68c6eb796&token=575871069&lang=zh_CN#rd)
 
+[udp发包过程](https://mp.weixin.qq.com/s?__biz=Mzg2MDc2OTYxMQ==&mid=2247483719&idx=1&sn=e71052feb23901afda023752b81a45de&chksm=ce201d63f9579475b78436c4516548fb942d97d22162a5affcae956f69abfe1ef7022990377f&token=575871069&lang=zh_CN#rd)
+
+
 
 二、实际解决的问题
 
