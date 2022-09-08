@@ -43,3 +43,6 @@
 
 [golang的channel原理](https://zhuanlan.zhihu.com/p/536634003)
 
+[语义化版本]（https://mp.weixin.qq.com/s?__biz=Mzg2MDc2OTYxMQ==&mid=2247483735&idx=1&sn=1f78500e6593126ee50dab19d3330726&chksm=ce201d73f95794656a16073022065304787abaf53a5b4b9ca1a6e7ed0e7a1330fb641dec5a9b&token=771611665&lang=zh_CN#rd）
+
+
