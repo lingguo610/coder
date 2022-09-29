@@ -30,6 +30,8 @@
 
 [过网闸路由设计](https://zhuanlan.zhihu.com/p/532436768)
 
+[原码、反码、补码](https://mp.weixin.qq.com/s?__biz=Mzg2MDc2OTYxMQ==&mid=2247483756&idx=1&sn=9765ec5b9587bd121302a118514c021a&chksm=ce201d48f957945e88041f7137ed6bc6c14be7d46cd6ff5356b531131d25394e9a81f17b6e1f&token=1717956565&lang=zh_CN#rd)
+
 
 四、工具
 
